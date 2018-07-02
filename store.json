@@ -2,15 +2,6 @@
     "name": "test",
     "indexes": [
         {
-            "label": "Hello world",
-            "tags": [
-                "tags2",
-                "tags2"
-            ],
-            "type": "password",
-            "path": "./password/hello-world.json"
-        },
-        {
             "label": "help world",
             "tags": [
                 "s"
@@ -32,6 +23,21 @@
             "label": "cris",
             "type": "password",
             "path": "./password/cris.json"
+        },
+        {
+            "label": "Hello world 3",
+            "type": "password",
+            "path": "./password/hello-world-3.json"
+        },
+        {
+            "label": "Hello World 5",
+            "type": "password",
+            "path": "./password/hello-world-5.json"
+        },
+        {
+            "label": "Hello World",
+            "type": "password",
+            "path": "./password/hello-world.json"
         }
     ],
     "sync": "9a93ff73e396e64556ea37f767cf6667e0bbc3dc130632ab2166c7322f073b2b47bef75e9d3e2ece71f58dfa125a7ab1d76e0b48b2f6109c7974c9260ba54c668c3bcee94b91235db889046ba45421d34d9deaef091b74b2fc394f86e4f9dcd7a1b3c3984e37a2c2335804c2f67ac2a22c42ee2dc9a63441d2888f6a3254d80f1de2dd1d7d53f7699e:b125c69af1e8311a9360a571e048d06e:4356a29652c17b55a71f6d9a4ef1bb6e:4b83178720a64759dd3716908cfec1c74f4efcfb"
